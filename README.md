@@ -20,4 +20,4 @@ This is a **React Native app** designed to let users save their favorite locatio
 
 # Set up Google API Key:
 - Obtain a Google API Key with access to Maps and Geolocation.
-- data file in the project root and add your API key:
+- Utils -> location.js file in the project add your API key:
